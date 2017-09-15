@@ -12,6 +12,18 @@
 	margin-top: 50px;
 }
 
+.nav-wrapper {
+	background-color: lightblue;
+}
+
+.btn {
+	background-color: lightblue;
+}
+
+.page-footer {
+	background-color: lightblue;
+}
+
 /*======*/
 /*FOOTER*/
 /*======*/
